@@ -1,5 +1,5 @@
 <?php
-// About Us page for E-Case Management System
+// About Us page for E-Case Management System in this 
 include_once 'includes/header.php';
 ?>
 
